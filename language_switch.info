@@ -1,0 +1,5 @@
+name = Language Switch
+description = Language switching functionality for the Mobile Friendly Navigation Toolbar.
+core = 7.x
+dependencies[] = navbar
+
