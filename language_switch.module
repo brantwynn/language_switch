@@ -72,7 +72,7 @@ function language_switch_navbar() {
             '#theme' => 'item_list',
             '#items' => $buttons,
             '#attributes' => array(
-              'class' => array('language-switch-options'),
+              'class' => array('language-switch-options', 'item-list'),
             ),
           ),
         ),
