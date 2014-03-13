@@ -28,7 +28,7 @@
   position: absolute;
   white-space: nowrap;
   z-index: 1;
-  left: -5em;
+  right: 0;
 }
 #navbar-administration .navbar-tab-language-switch.open .item-list {
   display: block;
